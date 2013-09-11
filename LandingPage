@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head><title>Git-R</title></head>
+
+<h1 style=font-family:Impact;color:Red>When you need to find it you gotta get Git-R<h1>
+<head style=font-size:40px; color:Green>Git-R<head>
+
+
+	<!-- HTML for SEARCH BAR -->
+	<body style=background-color:green>
+	<div id="tfheader">
+		<form id="tfnewsearch" method="get" action="http://www.google.com">
+		        <input type="text" class="tftextinput" name="q" size="21" maxlength="120"><input type="submit" value="search" class="tfbutton">
+		</form>
+	<div class="tfclear"></div>
+	</div>
+</body>
+</html>
+
